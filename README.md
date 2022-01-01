@@ -12,8 +12,9 @@
       | learned to use Inpect-box model view and bootstrap margin and padding attributes| 
       | change text color |       
     
-    - Building User input for creating post
+   - Building User input for creating post
       | Learning outcomes|
       |-------------|
       | work with different user types |
       | work wih jumbotron |
+      | work with column model |
